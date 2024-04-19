@@ -1,0 +1,2 @@
+# LottoGen
+Generates lotto numbers
